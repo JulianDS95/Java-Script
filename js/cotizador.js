@@ -1,5 +1,7 @@
 // Cotizador Impresión 3D
 
+document.title = "Cotizador 3D"
+
 // Variables ingresadas por el usuario
 
 const pesoPieza = prompt("Ingrese el peso de la pieza:");
